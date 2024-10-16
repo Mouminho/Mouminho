@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mouminho
 - 👀 I’m interested in computer science, especially AI and machine learning.
-- 🌱 I’m currently learning machine learning and IT-security
+- 🌱 I’m currently learning AI and IT-security
 - 💞️ I’m looking to collaborate on AI research projects, open-source contributions, and innovative tech solutions.
 - 📫 How to reach me: Mouamen.sande@web.de
 - 😄 Pronouns: He/Him
