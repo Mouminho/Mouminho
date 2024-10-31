@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mouminho
-- 👀 I’m interested in computer science, especially Machine Learning, IT Security and Web Development.
+- 👀 I’m interested in computer science, especially Machine Learning, IoT, IT Security and Web Development.
 - 💞️ I’m looking to collaborate on AI research projects, open-source contributions, and innovative tech solutions.
 - 📫 How to reach me: Mouamen.sande@web.de
 - 😊 Pronouns: He/Him
